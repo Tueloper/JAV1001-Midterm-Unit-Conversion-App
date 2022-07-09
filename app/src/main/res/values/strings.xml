@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit Conversion App</string>
+    <string name="unit_conversion_calculator">UNIT CONVERSION CALCULATOR</string>
+    <string name="please_select_your_conversion">Please Select Your Conversion</string>
+    <string name="convert">Convert</string>
+    <string name="input_numbers">Input Value</string>
+    <string name="select_conversion_unit">Select Conversion</string>
+</resources>
